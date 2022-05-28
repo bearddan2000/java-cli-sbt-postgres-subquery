@@ -1,0 +1,15 @@
+[INFO] Driver Success driver found. 
+[INFO] DbConnect Success connected to database. 
+[INFO] ToFile File created: output.log 
+[INFO] Main Found database resource name: "animal"."public"."dog" 
+[INFO] Main Found database resource name: breedLookup 
+[INFO] Main Found database resource name: colorLookup 
+[INFO] Main Found database resource name: dog_expanded 
+[INFO] DBQuery Success connected to database. 
+[ERROR] DBTablePrinter ERROR: relation "breedlookup" does not exist
+  Position: 15 
+[INFO] DBQuery Success connected to database. 
+[ERROR] DBTablePrinter ERROR: relation "colorlookup" does not exist
+  Position: 15 
+[INFO] DBQuery Success connected to database. 
+[INFO] DBQuery Success connected to database. 
