@@ -1,0 +1,11 @@
+[2021-03-26 13:50:29 INFO]: install::setup-logging ended
+================
+[2021-03-26 13:50:29 INFO]: install::start-up started
+[2021-03-26 13:50:29 INFO]: install::start-up starting services
+[2021-03-26 13:50:29 INFO]: install::decompress started
+[2021-03-26 13:50:29 INFO]: install::decompress changing directory to db
+[2021-03-26 13:50:29 INFO]: install::decompress decompress db/data_dump.tar.gz 
+[2021-03-26 13:50:29 INFO]: install::decompress removing data_dump.tar.gz 
+[2021-03-26 13:50:29 INFO]: install::decompress changing directory back
+[2021-03-26 13:50:29 INFO]: install::decompress ended
+================
